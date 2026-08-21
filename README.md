@@ -40,7 +40,7 @@
 - 🚀 Focused on **Full-Stack Web Development** and software architecture
 - 🤖 Love using AI tools to speed up learning and explore new ideas
 - 🎨 Also into design — Adobe Photoshop & Lightroom on the side
-- 📬 Reach me: **kakaokokorea@gamil.com**
+- 📬 Reach me: **kakaokokorea@gmail.com**
 
 <br clear="right" />
 
