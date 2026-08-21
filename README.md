@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:hoangkhuongsp1@gmail.com">
+  <a href="mailto:kakaokokorea@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-8B0000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1A0000" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/hoangkhuong21st">
@@ -40,7 +40,7 @@
 - 🚀 Focused on **Full-Stack Web Development** and software architecture
 - 🤖 Love using AI tools to speed up learning and explore new ideas
 - 🎨 Also into design — Adobe Photoshop & Lightroom on the side
-- 📬 Reach me: **hoangkhuongsp1@gmail.com**
+- 📬 Reach me: **kakaokokorea@gamil.com**
 
 <br clear="right" />
 
